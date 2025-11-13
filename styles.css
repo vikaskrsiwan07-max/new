@@ -13,7 +13,7 @@ font-size: 5rem;
 
 span{
      display: inline-block;
-     font-size: 70px;
+     font-size:  4.375rem;
      animation: rotateY 3s linear infinite;
      color: red;
 }
