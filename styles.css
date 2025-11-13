@@ -5,7 +5,6 @@ color: white ;
 align-items: center;
 justify-content: center;
 background-color: black;
-perspective: 800px;
 }
 
 p{
@@ -14,7 +13,7 @@ font-size: 5rem;
 
 span{
      display: inline-block;
-     font-size:  4.375rem;
+     font-size: 70px;
      animation: rotateY 3s linear infinite;
      color: red;
 }
